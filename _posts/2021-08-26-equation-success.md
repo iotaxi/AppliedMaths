@@ -9,5 +9,5 @@ The added code is <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js
 Outcome  
 $$ x = y^2 $$  
 $$ x = y^3 $$  
-$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$  
 The markdown syntax uses $ one more time in each delimiter to the Latex Code giving double $ at each delimiter 
