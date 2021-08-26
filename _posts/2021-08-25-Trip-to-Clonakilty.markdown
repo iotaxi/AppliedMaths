@@ -12,6 +12,7 @@ but the most common way is to run `jekyll serve`,
 which launches a web server and auto-regenerates your site when a file is updated.  
 
 $$ x = y^2 $$  
+$$ x = y^3 $$  
 
 Jekyll requires blog post files to be named according to the following format:
 
