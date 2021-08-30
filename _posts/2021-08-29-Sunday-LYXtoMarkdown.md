@@ -6,4 +6,4 @@ This is a display equation:
 
 $$y=\frac{x}{\alpha}$$
 
-This is an inline equation$y=\cos(\theta)$with no space after the dollar sign.
+This is an inline equation $y=\cos(\theta)$ with no space after the dollar sign, updated.
