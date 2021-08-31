@@ -16,3 +16,4 @@ The answer is $${8+15-1 \choose 8-1}$$ or $${8+15-1 \choose 15}$$ .
 So the problem reduced to n=8 and k=15.
 
 Why is this?
+Also follow up on multinomials such as $$\frac{n!}{a_1! \times a_2! \times \cdots \times a_k!}$$ which may also be written as $$\binom{n}{a_1, a_2, \ldots , n_k}$$.
