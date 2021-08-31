@@ -1,3 +1,6 @@
+---
+---
+
 Combinations with repetitions.
 
 How many groups of n objects taken k at a time may be made if repetitions are allowed?
