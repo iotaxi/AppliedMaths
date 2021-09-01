@@ -15,5 +15,6 @@ where$$x_{1},x_{2},x_{3},x_{4}\geq0$$.The situation where$$x_{1},x_{2},x_{3},x_{
 The n objects are represented by stars.$$k-1$$bars are placed between the stars. We can place multiple bars between stars, before the first star and after the last star(st).    
 st st st st | | st | st st |  
 means  
-four bars give rise to five bins containing 4, 0, 1, 2, and 0 objects.
-![GitHub Logo](/images/logo.png)  
+four bars give rise to five bins containing 4, 0, 1, 2, and 0 objects.  
+![Stars and Bars](/images/starsandbars01092021.png)  
+
