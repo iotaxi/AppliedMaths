@@ -18,3 +18,4 @@ means
 four bars give rise to five bins containing 4, 0, 1, 2, and 0 objects.  
 ![Stars and Bars](https://github.com/iotaxi/JekyllFirst/images/starsandbars01092021.png)  
 
+<img src="https://github.com/iotaxi/JekyllFirst/images/starsandbars01092021.png" width="100" height="100">  
