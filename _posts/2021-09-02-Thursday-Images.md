@@ -4,7 +4,7 @@ Sort images issue
 
 
 <img src="{{ site.baseurl }}/assets/edxfc02092021.jpg">
-
+![My helpful screenshot](/assets/edxfc02092021.jpg)
 
 Info here solved the problem
 
