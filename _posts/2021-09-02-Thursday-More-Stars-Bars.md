@@ -17,3 +17,4 @@ In how many ways can 10 balls be placed in 7 bins?
 
 10 balls means 10 stars and 7 bins means 6 bars so the solu is $${n+k-1 \choose k-1}={10+6 \choose 6}={16 \choose 6}$$
 
+![Bamboo](/assets/Combinationswithrepetitions02092021thumbnail.png)
