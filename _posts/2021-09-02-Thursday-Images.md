@@ -1,9 +1,7 @@
 ---
 ---
 Sort images issue
-
-
-
+Is site dot baseurl the problem?
 ![My helpful screenshot]({{ site.baseurl }}/assets/edxfc02092021.jpg)
 
 Info here solved the problem
