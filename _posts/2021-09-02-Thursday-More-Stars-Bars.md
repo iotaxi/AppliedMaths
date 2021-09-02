@@ -1,7 +1,7 @@
 ---
 ---
 
-Thursday More Stars and Bars and More Bars than Stars
+Thursday More Stars than Bars and More Bars than Stars
 
 The case where $$x_{1,}x_{2},...>0$$ is denoted by SAB1
 
