@@ -7,7 +7,7 @@ The case where $$x_{1,}x_{2},...>0$$ is denoted by SAB1
 
 The case where $$x_{1,}x_{2},...\geq0$$ is denoted by SAB2
 
-SAB2 allows for more bars than stars.
+SAB2 allows for more bars than stars, but SAB1 oviously does not.
 
 In how many ways can 7 balls be placed in 10 bins?
 
