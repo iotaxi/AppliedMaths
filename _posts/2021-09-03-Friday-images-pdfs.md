@@ -6,5 +6,8 @@ https://stackoverflow.com/questions/28820917/jekyll-on-github-pages-not-displayi
 ![My helpful screenshot]({{ site.baseurl }}/assets/images/IMGabout50by40px03092021.jpg)
 
 Linking to a PDF for readers to download:  
-[get the PDF]({{ site.baseurl }}/assets/images/smallpdf03092021.pdf) directly.  
-[My helpful screenshot]({{ site.baseurl }}/assets/images/IMGabout50by40px03092021.jpg)  
+[get the PDF]({{ site.baseurl }}/assets/images/smallpdf03092021.pdf) directly. 
+
+[My helpful screenshot](/JekyllFirst/assets/images/IMGabout50by40px03092021.jpg)
+
+
