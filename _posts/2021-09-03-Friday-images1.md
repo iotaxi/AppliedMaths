@@ -2,4 +2,4 @@
 ---
 this works in preview
 used copy path for image Jekyll docs without site dot baseurl
-![My helpful screenshot](assets/images/IMG_20210504_151124.jpg)
+![My helpful screenshot]({{ site.baseurl }}/assets/images/IMGabout50by40px03092021.jpg)
