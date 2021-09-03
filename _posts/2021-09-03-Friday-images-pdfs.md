@@ -1,5 +1,8 @@
 ---
 ---
+Images markdownguide.org
+To add an image, add an exclamation mark (!), followed by alt text in brackets, and the path or URL to the image asset in parentheses. You can optionally add a title after the URL in the parentheses.
+
 See Including images and resources in Jekyll. Then {{ site.baseurl }} must be added to path.
 https://stackoverflow.com/questions/28820917/jekyll-on-github-pages-not-displaying-images-and-has-broken-links  
 
