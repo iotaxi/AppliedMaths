@@ -14,5 +14,6 @@ anagrams of MISSISSIPPI
 
 not for anagrams of LYX
 
-$$\frac{n!}{a_1! $$\times a_2! \times \cdots \times a_k!}$$  
-$$\binom{n}{a_1, a_2, \ldots , n_k}$$
+$$\frac{n!}{a_1! \times a_2! \times \cdots \times a_k!}$$  
+
+$$\binom{n}{a_1, a_2, \ldots , n_k}$$  
