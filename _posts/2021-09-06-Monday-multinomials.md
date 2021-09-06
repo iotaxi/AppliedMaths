@@ -10,9 +10,9 @@ Use this for:
 
 n objects, k gps, of sizes $$a_{1},a_{2,}..a_{k}$$
 
-anagrams of MISISSIPPI
+anagrams of MISSISSIPPI
 
 not for anagrams of LYX
 
-$$\frac{n!}{a_1! $$\times a_2! \times \cdots \times a_k!}$$
+$$\frac{n!}{a_1! $$\times a_2! \times \cdots \times a_k!}$$  
 $$\binom{n}{a_1, a_2, \ldots , n_k}$$
