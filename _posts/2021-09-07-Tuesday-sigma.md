@@ -4,7 +4,8 @@ Tuesday
 
 Display mode has a couple differences from inline mode:  
 
-Display mode $$\sum_{i=1}^{k}a_{i}=n$$
+Display mode  
+$$\sum_{i=1}^{k}a_{i}=n$$  
 
 Inline mode$$\sum_{i=1}^{k}a_{i}=n$$
 
