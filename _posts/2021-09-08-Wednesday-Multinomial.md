@@ -2,7 +2,7 @@ Wednesday
 
 Multinomials
 
-n objects, k gps, sizes $$a_{1},a_{2},\ldots a_{k}$so that $a_{1}+\ldots+a_{k}=n$$.
+n objects, k gps, sizes $$a_{1},a_{2},\ldots a_{k} so that  a_{1}+\ldots+a_{k}=n$$.
 
 There are $${n \choose a_{1}}$$ways of forming the first gp.
 
