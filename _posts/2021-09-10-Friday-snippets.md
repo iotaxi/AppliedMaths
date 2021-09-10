@@ -26,9 +26,7 @@ Then, create an HTML file inside, for example "mycomponent.html"
 Omit DOCTYPE html  
   
 Call it in your post with something like this:
+"{% include mycomponent.html %}"
 
-{% highlight ruby %}
-{% include mycomponent.html %}
-{% endhighlight %}
 
 {% include mycomponent.html %}
