@@ -25,8 +25,7 @@ Then, create an HTML file inside, for example "mycomponent.html"
  
 Omit DOCTYPE html  
   
-Call it in your post with something like this:
-"{% include mycomponent.html %}"
+Call the html in the post to get:
 
+{% include mycomponent.html %}  
 
-{% include mycomponent.html %}
