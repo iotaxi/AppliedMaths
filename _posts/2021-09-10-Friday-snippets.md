@@ -16,5 +16,5 @@ def print_hi(name)
 end
 print_hi('Tom')
 {% endhighlight %}
-
-  
+ 
+{% include mycomponent.html %}
