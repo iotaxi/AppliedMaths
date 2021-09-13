@@ -3,17 +3,13 @@
 Monday  
 Counting and Anagrams  
 MISSISSIPPI  
-
 M  
-
 IIII  
-
 SSSS  
-
 PP  
-
 How many anagrams are possible using all letters and assuming that like letters are identical?  
-
+These problems are easier if we think think graphically. Imagine that you are actually making   
+an arrangement of the letters. In other words, think physically. So we imagine a rack and cards.  
 Suppose we have a straight rack with 11 card slots and that the 11 letters are printed on cards which may be placed in the card slots in the rack.  
 
 $$\square\square\square\square\square\square\square\square\square\square\square$$
@@ -46,16 +42,12 @@ But
 $${11 \choose 4}{7 \choose 4}{3 \choose 2}{1 \choose 1}=\frac{11!}{4!4!2!1!}$$
 
 The number of anagrams of  
-
 M  
-
 IIII  
-
 SSSS  
-
 PP  
-
-is the multinomial $$\frac{11!}{4!4!2!1!}$$
+is the multinomial  
+$$\frac{11!}{4!4!2!1!}$$
 
 Recall that the number of anagrams of FRACTION is an easy problem.  
 $$\square\square\square\square\square\square\square\square$$  
