@@ -16,7 +16,7 @@ How many anagrams are possible using all letters and assuming that like letters 
 
 Suppose we have a straight rack with 11 card slots and that the 11 letters are printed on cards which may be placed in the card slots in the rack.  
 
-$$\APLbox\APLbox\APLbox\APLbox\APLbox\APLbox\APLbox\APLbox\APLbox\APLbox\APLbox$$  
+$$\square\square\square\square\square\square\square\square\square\square\square$$
 
 The four identical letters S may be placed on this rack in $${11 \choose 4}$$ different ways.  
 
@@ -56,7 +56,8 @@ PP
 
 is the multinomial $$\frac{11!}{4!4!2!1!}$$
 
-Recall that the number of anagrams of FRACTION is an easy problem. $$\square\square\square\square\square\square\square\square$$
+Recall that the number of anagrams of FRACTION is an easy problem.  
+$$\square\square\square\square\square\square\square\square$$  
 
 The first place may be filled in 8 ways and then the second place in 7 ways and so on to yield
 
