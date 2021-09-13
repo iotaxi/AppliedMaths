@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 Monday  
 Counting and Anagrams  
