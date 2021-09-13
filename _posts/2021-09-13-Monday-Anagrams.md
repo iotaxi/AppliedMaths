@@ -38,7 +38,8 @@ The number of anagrams using all letters of MISSISSIPPI and assuming that like l
 
 $${11 \choose 4}{7 \choose 4}{3 \choose 2}{1 \choose 1}$$
 
-Confirm for yoursef that you get the same answer if you start by distributing the two letters P and then the M $${11 \choose 2}{9 \choose 1}{8 \choose 4}{4 \choose 4}$$  
+Confirm for yoursef that you get the same answer if you start by distributing the two letters P and then the M is  
+$${11 \choose 2}{9 \choose 1}{8 \choose 4}{4 \choose 4}$$  
 
 But  
 
@@ -61,8 +62,8 @@ $$\square\square\square\square\square\square\square\square$$
 
 The first place may be filled in 8 ways and then the second place in 7 ways and so on to yield
 
-$$7!$$
+$$8!$$
 
 There is no need to use the multinomial, but it would yield
 
-$$\frac{7!}{1!1!1!1!1!1!1!}$$
+$$\frac{8!}{1!1!1!1!1!1!1!1!}$$
