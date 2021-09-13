@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 $$\binom{n}{a_1, a_2, \ldots , a_k}$$    
 $$\frac{n!}{a_1! \times a_2! \times \cdots \times a_k!}$$    

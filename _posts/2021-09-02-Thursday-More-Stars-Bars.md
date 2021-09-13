@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 
 Thursday More Stars than Bars and More Bars than Stars

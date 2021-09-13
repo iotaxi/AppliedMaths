@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 Combinations with repetitions.
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 Able to Display Equations on Jekyll Site  
 Step1: went to jekyllrb to docs to themes and overiding theme defaults  

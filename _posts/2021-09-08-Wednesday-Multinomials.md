@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 Wednesday
 
 Multinomials

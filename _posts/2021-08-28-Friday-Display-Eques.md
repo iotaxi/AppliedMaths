@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 How to display equations in pages and blogs    
 In layouts, go to both posts and pages html files  

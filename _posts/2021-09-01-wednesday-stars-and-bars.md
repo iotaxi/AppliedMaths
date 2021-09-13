@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 
 Wednesday. Combinations of n objects taken k at a time where repetitions are allowed.

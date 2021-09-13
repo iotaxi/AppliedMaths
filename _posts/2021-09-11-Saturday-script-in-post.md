@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 Saturday    
 Run javascript in post    

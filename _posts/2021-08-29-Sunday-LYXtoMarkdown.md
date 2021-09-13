@@ -1,4 +1,5 @@
 ---
+layout: post
 ---
 Export this as so that MathJax can read it without modification.
 
