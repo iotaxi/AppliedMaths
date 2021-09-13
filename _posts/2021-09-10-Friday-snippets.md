@@ -17,4 +17,15 @@ end
 print_hi('Tom')
 {% endhighlight %}
 
+Insert HTML to Jekyll post  
+
+Create a folder with the name _includes/ in the DocumentRoot  
   
+Then, create an HTML file inside, for example "mycomponent.html"  
+ 
+Omit DOCTYPE html  
+  
+Call the html in the post to get:
+
+{% include mycomponent.html %}  
+
