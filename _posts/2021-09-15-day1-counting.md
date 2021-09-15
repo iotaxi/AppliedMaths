@@ -26,11 +26,11 @@ How many numbers are there between 6 and 10, inclusive of both 6 and 10?
 
 The answer is clearly 5.  
 
-How many numbers are there between 1 and n, inclusive of both 1 and n, where n is a positive integer?
+How many numbers are there between 1 and n, inclusive of both 1 and n?
 
 The answer is clearly n.  
 
-How many numbers are there between k and n, inclusive of both k and n, where k and n are positive integers and k\<n?  
+How many numbers are there between k and n, inclusive of both k and n, where k\<n?  
 
 Between 1 and n, there are n numbers.  
 
