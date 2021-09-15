@@ -16,7 +16,7 @@ You will have a thorough understanding of counting if you work through a program
 
 and then return to the same topics some time later to consolidate your understanding.  
 
-Let us start with this question and build up to something of value to us where we will use numbers and integers interchangeably.  
+Let us start with this question and build up to something of value to us where we will use the terms numbers and integers interchangeably.  
 
 How many integers are there between 1 and 10, inclusive of both 1 and 10?  
 
@@ -38,10 +38,10 @@ We must subtract off the number of integers between 1 and k-1, if we wish to inc
 
 Between 1 and k-1, there are k-1 numbers.  
 
-So between k and n, inclusive of the endpoints, there are $n-(k-1)$ numbers.  
+So between k and n, inclusive of the endpoints, there are $$n-(k-1)$$ numbers.  
 
 But $$n-(k-1)=n-k+1$$  
 
 So the number of integers between k and n inclusive of both is $$n-k+1$$  
 
-After Day1, our take away message is $$\text{The number of integers between k and n, inclusive of endpoints, is}n-(k+1)$$  
+After Day1, our take away message is $$\text{The number of integers between k and n, inclusive of endpoints, is} n-(k+1)$$  
