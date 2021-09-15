@@ -1,6 +1,6 @@
 ---
 layout: post
-future: true
+
 ---
 
 How To Count
