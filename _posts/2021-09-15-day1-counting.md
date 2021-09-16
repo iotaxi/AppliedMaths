@@ -11,9 +11,6 @@ Work through this programme and then return to the same topics some time later t
 How many integers are there between 1 and 10, inclusive of both 1 and 10?  
 The answer is clearly 10.  
 
-How many integers are there between 6 and 10, inclusive of both 6 and 10?  
-The answer is 5.  
-
 How many integers are there between 1 and n, inclusive of both 1 and n?
 The answer is n.  
 
