@@ -44,6 +44,6 @@ But $$n-(k-1)=n-k+1$$
 
 So the number of integers between k and n inclusive of both is $$n-k+1$$  
 
-After Day1, our take away message is $$\text{The number of integers between k and n, inclusive of endpoints, is }n-(k+1)$$  
+After Day1, our take away message is that inclusive of endpoints: 
 
-<span style="color:blue"> $$\text{The number of integers between k and n, inclusive of endpoints, is }n-(k+1)$$</span>.
+<span style="color:blue"> $$\text{The number of integers between k and n is }n-(k+1)$$</span>.
