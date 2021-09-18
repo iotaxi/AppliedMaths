@@ -12,5 +12,5 @@ jobs:
     steps:
       - name: cURL request
         # Hit the webhook endpoint to rebuild  from the "main" branch
-        run: curl -X POST -d {} https://github.com/iotaxi/JekyllFirst
+        run: curl -X POST -d {} https://github.com/iotaxi/JekyllFirst/tree/main/.github/workflows
         
