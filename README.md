@@ -4,8 +4,10 @@
 
 [Theme preview](https://jekyll.github.io/minima/)
 
-![minima theme preview](/screenshot.png)
-[![Build every hour](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml/badge.svg)](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml)
+![minima theme preview](/screenshot.png)  
+#status badge added on 18092021
+[![Build every hour](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml/badge.svg)](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml)  
+
 ## Installation
 
 Add this line to your Jekyll site's Gemfile:
