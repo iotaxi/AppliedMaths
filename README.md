@@ -6,7 +6,7 @@
 
 ![minima theme preview](/screenshot.png)  
 ## Status badge added on 18092021
-[![Build every hour](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml/badge.svg)](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml)  
+[![Build every night](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml/badge.svg)](https://github.com/iotaxi/JekyllFirst/actions/workflows/scheduled-posts.yml)  
 
 ## Installation
 
