@@ -1,3 +1,7 @@
+---
+layout: post
+
+---
 Day 3
 
 NOTATION
