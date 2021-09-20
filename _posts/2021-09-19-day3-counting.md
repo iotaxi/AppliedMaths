@@ -17,7 +17,7 @@ But
 $$(n)(n-1)(n-2)\cdots\cdots(n-k+1)=\frac{(n)(n-1)(n-2)\cdots\cdots(n-k+1)(n-k)(n-k-1)\cdots\cdots(1)}{(n-k)(n-k-1)\cdots\cdots(1)}$$  
 $$=\frac{n!}{(n-k)!}$$  
 
-THE SUBTRACTION PRINCIPLE
+THE SUBTRACTION PRINCIPLE  
 Suppose again that we have a collection of objects.  
  
 $$\#\,of\,objects\,that\,satisfy\,some\,condition$$
