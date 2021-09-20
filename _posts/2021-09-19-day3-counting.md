@@ -5,7 +5,6 @@ layout: post
 Day 3
 
 NOTATION
-
 $$n!$$ is read as n factorian and is defined as:  
 $$n!=(n)(n-1)(n-2)\cdots\cdots(2)(1)$$  
 and $$0!=1$$  
