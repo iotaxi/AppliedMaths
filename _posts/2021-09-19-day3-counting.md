@@ -25,3 +25,8 @@ $$\#\,of\,objects\,that\,satisfy\,some\,condition$$
 $$=total\,\#\,of\,objects-\#\,that\,dont\,satisfy\,the\,condition$$
 
 where \# is read as number
+
+After Day 3, our take away message is:  
+<span style="color:blue">$$n!=(n)(n-1)(n-2)\cdots\cdots(2)(1)$$</span>     
+<span style="color:blue">$$(n)(n-1)(n-2)\cdots\cdots(n-k+1)=\frac{n!}{(n-k)!}$$</span>     
+<span style="color:blue">THE SUBTRACTION PRINCIPLE</span>    
