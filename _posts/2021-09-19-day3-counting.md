@@ -19,4 +19,10 @@ $$=\frac{n!}{(n-k)!}$$
 
 THE SUBTRACTION PRINCIPLE
 Suppose again that we have a collection of objects.  
-$$\text{The number of objects that satisfy some condition = the total umber of objects - the number that dont satisfy the condition}$$  
+$$\text{The number of objects that satisfy some condition = the total umber of objects - the number that dont satisfy the condition}$$ 
+ 
+$$\#\,of\,objects\,that\,satisfy\,some\,condition$$
+
+$$=total\,\#\,of\,objects-\#\,that\,dont\,satisfy\,the\,condition$$
+
+where \# is read as number
