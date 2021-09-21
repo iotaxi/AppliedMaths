@@ -28,4 +28,5 @@ anagrams of MISISSIPPI
 
 not for anagrams of LYX  
 
-$${n \choose a_{1},a_{2},\ldots,n_{k}}=\frac{n!}{a_{1}!\times a_{2}!\times\cdots\times a_{k}!}$$
+After Day 4, our take away message is:  
+<span style="color:blue">$${n \choose a_{1},a_{2},\ldots,n_{k}}=\frac{n!}{a_{1}!\times a_{2}!\times\cdots\times a_{k}!}$$</span>  
