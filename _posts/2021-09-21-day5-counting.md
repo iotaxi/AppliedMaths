@@ -12,6 +12,6 @@ $${n \choose 0}=1={n \choose n}$$
 $$2^{n}={n \choose 0}+\cdots+{n \choose n}$$  
 $$Pascals\bigtriangleup$$  
 
-After Day 4, our take away message is:
+After Day 4, our take away message is:  
 <span style="color:blue">$${n \choose k}={n \choose n-k}$$</span>  
 <span style="color:blue">$${n \choose k}={n-1 \choose k}+{n-1 \choose k-1}$$</span>  
