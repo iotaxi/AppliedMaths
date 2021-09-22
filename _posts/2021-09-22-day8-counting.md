@@ -8,7 +8,7 @@ Stars and Bars
 
 see starsandbarsSatblog04092021.lyx  
 
-Suppose you want to distribute 15 identical balls among eight distinguishable urns, with no restriction on how many in each urn. How many ways are there of choosing how balls in each urn?
+Suppose you want to distribute 15 identical balls among eight distinguishable urns, with no restriction on how many in each urn. How many ways are there of choosing how many balls in each urn?
 
 Picture one outcome: 3 balls in first urn, 0,0,0,0,0,7,5 ballsin eight urn.
 
