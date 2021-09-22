@@ -12,3 +12,6 @@ We have now considered the four formulae listed below:
    
     Without repetition   $$\frac{n!}{(n-k)!}$$       $${n \choose k}$$
     With repetition           $$n^{k}$$         $$={n+k-1 \choose n-1}$$  
+	
+	$$\frac{n!}{(n-k)!}$$       $${n \choose k}$$  
+	 $$n^{k}$$         $$={n+k-1 \choose n-1}$$  
