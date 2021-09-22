@@ -11,4 +11,4 @@ We have now considered the four formulae listed below:
 Sequences without repetition  $$\frac{n!}{(n-k)!}$$  
 Sequences with repetition  $$n^{k}$$  
 Collections without repetition  $${n \choose k}$$  
-Sequences without repetition  $${n+k-1 \choose n-1}$$  
+Collections with repetition  $${n+k-1 \choose n-1}$$  
