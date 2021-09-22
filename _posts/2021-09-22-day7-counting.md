@@ -9,9 +9,6 @@ The number of collections of k objects chosen from a pool of n objects with repe
 $$={n+k-1 \choose k}$$ $$={n+k-1 \choose n-1}$$
 
 We have now considered the four formulae listed below:  
-
-                             Sequences              Collections
-  -------------------- --------------------- --------------------------
-   Without repetition   $$\frac{n!}{(n-k)!}$$       $${n \choose k}$$
+   
+    Without repetition   $$\frac{n!}{(n-k)!}$$       $${n \choose k}$$
     With repetition           $$n^{k}$$         $$={n+k-1 \choose n-1}$$  
-	
