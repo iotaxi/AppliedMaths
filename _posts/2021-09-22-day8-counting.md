@@ -14,4 +14,4 @@ Consider this graphic:
 This represents a situation where we have 7 balls and 5 urns.  
 In the first urn, there are 4 balls. In the second urn, there are 0 balls. In the third urn, there is 1 ball.      
 In the fourth urn, there are 2 balls. In the fifth urn, there are 0 balls.      
-We may now interpret \|\*\*\|\*\*\*\|\*\*\| or \*\|\|\|\|\*\*\*\\\*\*\*  
+We may now interpret \|\*\*\|\*\*\*\|\*\*\| or \*\|\*\|\|\*\*\*\|\*\*    
