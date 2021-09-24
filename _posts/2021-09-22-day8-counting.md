@@ -1,12 +1,10 @@
 ---  
 layout: post  
 ---  
-
 Day 8   
 Stars and Bars is an approach that is sometimes useful when dealing with combinations where repetitions are allowed. In these problems, some objects are identical and some are distinct.  
 
-We may wish to count the number of ways there are to put $$k$$ indistinguishable balls into $$n$$ distinguishable urns.   
-The $$k$$ balls are represented by $$k$$ stars and the $$n$$ urns are represented by $$n-1$$ bars. The bars are placed between the stars. We can place multiple bars between stars, before the first star and after the last star.  
+We may wish to count the number of ways there are to put $$k$$ indistinguishable balls into $$n$$ distinguishable urns. The $$k$$ balls are represented by $$k$$ stars and the $$n$$ urns are represented by $$n-1$$ bars. The bars are placed between the stars. We can place multiple bars between stars, before the first star and after the last star.  
 This technique allows us to conclude that the answer is given by $${n+k-1 \choose k}$$ or equivalently by $${n+k-1 \choose n-1}$$     
   
 Suppose we may wish to count the number of ways there are to put $$7$$ indistinguishable balls into $$5$$ distinguishable urns.  
@@ -25,6 +23,4 @@ After Day 8, our take away message is:
 The number of ways there are to put $$k$$ indistinguishable balls into $$n$$ distinguishable urns is given by:  
 
   
-<span style="color:blue">$${n+k-1 \choose k}$$</span>
-or       
-<span style="color:blue">$${n+k-1 \choose n-1}$$</span>       
+<span style="color:blue">$${n+k-1 \choose k}$$ or $${n+k-1 \choose n-1}$$</span>       
