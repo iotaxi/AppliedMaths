@@ -19,7 +19,7 @@ But $$11=5+7-1$$.
 We conclude that the number of ways there are to put $$7$$ indistinguishable balls into $$5$$ distinguishable urns is $${5+7-1 \choose 7}$$  
 Similarly, we may deduce that the number of ways there are to put $$k$$ indistinguishable balls into $$n$$ distinguishable urns is $${n+k-1 \choose k}$$  
 
-After Day 8, our take away message is:
+After Day 8, our take away message is:  
 The number of ways there are to put $$k$$ indistinguishable balls into $$n$$ distinguishable urns is given by:  
 
   
