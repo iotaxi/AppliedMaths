@@ -2,7 +2,13 @@
 layout: post  
 ---  
 
-Day 8  
+old day 8  
+use k balls and n urns throughout
+
+use k balls and n urns throughout
+
+use k balls and n urns throughout
+
 
 Stars and Bars  
 
