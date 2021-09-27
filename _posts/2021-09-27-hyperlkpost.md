@@ -20,6 +20,6 @@ A link to [JekyllFirst](https://iotaxi.github.io/JekyllFirst/). A big ass litera
 Linking to postsPermalink
 If you want to include a link to a post on your site, the post_url tag will generate the correct permalink URL for the post you specify.
 
-{% post_url 2021-09-22-day8-counting %}  
+{% post_url 2021-09-22-day8-counting.md %}  
 A link to [Jekyll documentation](https://jekyllrb.com/docs/liquid/tags/#linking-to-posts/)  
 
