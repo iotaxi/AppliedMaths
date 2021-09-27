@@ -17,10 +17,6 @@ A link to [JekyllFirst](https://iotaxi.github.io/JekyllFirst/). A big ass litera
 <a href="https://appliedmaths.moodlecloud.com/login/index.php" target="_blank">Moodlecloudnewtab</a>  
 
 
-
-
-<a href="appliedmaths.moodlecloud.com" target="_blank">Moodlecloudnewtab</a>
-
 Linking to postsPermalink
 If you want to include a link to a post on your site, the post_url tag will generate the correct permalink URL for the post you specify.
 
