@@ -28,4 +28,12 @@ layout: default
 </article>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
+<h1></h1>
+
+<h1>
+  {% assign topic = site.statistics | where: 'short_name', page.topic | first %}
+  {% if topic %}
+    Back to <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.name }}</a>
+  {% endif %}
+</h1>
 
