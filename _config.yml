@@ -56,3 +56,19 @@ plugins:
 collections:
   statistics:
    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "statistics"
+    values:
+      layout: "topic"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"      
