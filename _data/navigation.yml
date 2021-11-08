@@ -1,0 +1,8 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Counting Blog
+  link: /countingblog.html
+- name: Stats-Resources
+  link: /Stats-Resources.html
