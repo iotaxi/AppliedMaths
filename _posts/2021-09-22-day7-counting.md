@@ -1,5 +1,6 @@
 ---
 layout: post
+topic: count
 ---
 Day 7  
 COLLECTIONS WITH REPETITIONS  

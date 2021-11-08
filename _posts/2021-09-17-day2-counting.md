@@ -1,5 +1,6 @@
 ---
 layout: post
+topic: count
 ---
 Day 2  
 How to Count  

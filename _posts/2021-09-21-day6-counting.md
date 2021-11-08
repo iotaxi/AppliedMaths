@@ -1,6 +1,6 @@
 ---
 layout: post
-
+topic: count
 ---
 Day 6  
 Multinomials  

@@ -1,5 +1,6 @@
 ---  
-layout: post  
+layout: post
+topic: count
 ---  
 Day 8   
 Stars and Bars is an approach that is sometimes useful when dealing with combinations where repetitions are allowed.  
