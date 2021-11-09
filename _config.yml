@@ -62,7 +62,7 @@ defaults:
       path: ""
       type: "statistics"
     values:
-      layout: "topic"
+      layout: "post"
   - scope:
       path: ""
       type: "posts"
