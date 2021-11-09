@@ -1,6 +1,6 @@
 ---
 layout: post
-
+topic: stats
 ---
 
 How To Count
