@@ -1,5 +1,5 @@
 ---
-
+layout:page
 short_name: stats
 name: statistics
 position: study third
