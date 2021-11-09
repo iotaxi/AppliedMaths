@@ -1,5 +1,5 @@
 ---
-
+layout: default
 short_name: probab
 name: probability
 position: study second
