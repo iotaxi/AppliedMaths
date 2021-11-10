@@ -1,6 +1,6 @@
 ---
 
-short_name: counting
+short_name: count
 name: counting
 position: study first
 ---
