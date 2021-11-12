@@ -5,7 +5,7 @@ title: Statistics
 <h1>Statistics</h1>
 
 <ul>
-  {% for topic in site.statistics %}
+  {% for topic in site.sections %}
     <li>
       <h2><a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a></h2>
       <h3>{{ topic.position }}</h3>

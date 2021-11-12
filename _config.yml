@@ -54,13 +54,13 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 collections:
-  statistics:
+  sections:
    output: true
 
 defaults:
   - scope:
       path: ""
-      type: "statistics"
+      type: "sections"
     values:
       layout: "topic"
   - scope:
