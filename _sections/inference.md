@@ -1,5 +1,5 @@
 ---
-
+topic: notatopic
 short_name: inference
 name: inference chapter
 position: study third
