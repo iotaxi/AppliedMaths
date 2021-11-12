@@ -1,5 +1,5 @@
 ---
-topic: not
+topic: notatopic
 short_name: counting
 name: counting chapter
 position: study first
