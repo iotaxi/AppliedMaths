@@ -1,6 +1,6 @@
 ---
 layout: post
-topic: count
+topic: counting
 ---
 Day 4
 

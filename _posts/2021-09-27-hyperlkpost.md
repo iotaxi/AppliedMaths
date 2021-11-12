@@ -1,6 +1,6 @@
 ---
 layout: post
-topic: stats
+topic: inference
 ---
 
 How To Count

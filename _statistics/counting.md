@@ -1,7 +1,7 @@
 ---
 
-short_name: count
-name: counting
+short_name: counting
+name: count
 position: study first
 ---
 counting blog and access to we and probs 

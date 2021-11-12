@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Stats Resources
+title: Statistics
 ---
-<h1>Stats Resources</h1>
+<h1>Statistics</h1>
 
 <ul>
   {% for topic in site.statistics %}
     <li>
-      <h2><a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.name }}</a></h2>
+      <h2><a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a></h2>
       <h3>{{ topic.position }}</h3>
       <p>{{ topic.content | markdownify }}</p>
     </li>

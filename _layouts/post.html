@@ -30,7 +30,7 @@ layout: default
 <h1>
   {% assign topic = site.statistics | where: 'short_name', page.topic | first %}
   {% if topic %}
-      Back to <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.name }}</a>
+      Back to <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a>
   {% endif %}
 </h1>
 
