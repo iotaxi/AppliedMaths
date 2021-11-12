@@ -30,9 +30,8 @@ layout: default
 <h1>
   {% assign topic = site.sections | where: 'short_name', page.topic | first %}
   {% if topic %}
-      MarkerBack to <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a>
-       new line MarkerBack to <a href="{{ topic.url | prepend: site.baseurl }}">{{ page.topic }}</a>
-  {% endif %}
+      <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a>
+   {% endif %}
 </h1>
 
 
