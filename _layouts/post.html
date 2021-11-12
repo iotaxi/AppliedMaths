@@ -28,9 +28,9 @@ layout: default
 </article>
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <h1>
-  {% assign topic = site.sections | where: 'short_name', page.topic | first %}
+  {% assign topic = site.sections | where: 'short_name', page.topic %}
   {% if topic %}
-      Back to <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a>
+      MarketBack to <a href="{{ topic.url | prepend: site.baseurl }}">{{ topic.short_name }}</a>
   {% endif %}
 </h1>
 
