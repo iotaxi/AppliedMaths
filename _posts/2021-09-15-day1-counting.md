@@ -28,7 +28,7 @@ After Day1, our take away message is that inclusive of endpoints:
 <span style="color:blue"> $$\text{The number of integers between k and n is  }n-k+1$$</span>.  
 Problem  
 In a metropolitan area, a shopping mall developer has opted to create flexible working spaces.  
-In one mall these booths for people to work in are numbered 201 through to 301.  
+In one mall these booths for people to work in are numbered 204 through to 301.  
 (i)Due to restrictions, just one booth in six may be occupied. How many booths are available?  
 (ii)If restrictions are relaxed so that one booth in three may be occupied, how many booths are available?  
 (iii)When all restrictions are lifted, how many booths will be available?  
