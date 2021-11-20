@@ -29,7 +29,7 @@ After Day2, our take away message is that we use the expressions below when appl
 <span style="color:blue"> $$(n)(n-1)(n-2)\cdots\cdots(n-k+1)$$ </span>   
  Problem  
 There are 6 roads between A and B and 4 roads between B and C.  
-(i)In how many ways can one drive from A to C by way of B?    
+(i) In how many ways can one drive from A to C by way of B?    
 (ii) Find the number of ways one can drive from A to C and back to A, passing through B on both trips.   
 (iii) Find the number of ways of ways one can drive the circular trip described in (ii) without using the same road more than once.  
 <a href="https://appliedmaths.moodlecloud.com/login/index.php" target="_blank">Solution</a>  
