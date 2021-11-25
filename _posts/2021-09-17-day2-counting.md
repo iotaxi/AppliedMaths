@@ -5,7 +5,7 @@ topic: counting
 Day 2  
 How to Count  
 
-The Multiplication Principle  
+The Multiplication Principle (also known as the fundamental principle of counting)   
 
 Suppose that one operation may be carried out in M ways and that for each of those a second operation may be carried out in N ways, then the number of ways of performing both operations is:
 
@@ -15,11 +15,11 @@ The two operations must be independent. Independent means that the first choice 
 The Multiplication Principle may be extended to any number of operations.  
 
 The Multiplication Principle allows us to conclude that:  
-The number of sequences of k objects chosen from a collection of n objects, where each object may be used more than once is:  
+The number of arrangements of k objects chosen from a collection of n distinct objects, where each object may be used more than once is:  
 
 $$n^{k}$$
 
-The number of sequences of k objects chosen from a collection of n objects, where each object may be used just once is:  
+The number of arrangements of k objects chosen from a collection of n distinct objects, where each object may be used just once is:  
 
 $$(n)(n-1)(n-2)\cdots\cdots(n-k+1)$$
 
