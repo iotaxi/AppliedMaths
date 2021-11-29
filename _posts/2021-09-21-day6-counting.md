@@ -24,7 +24,7 @@ Use this for:
 
 n objects, k gps, of sizes $$a_{1},a_{2,}..a_{k}$$
 
-anagrams of MISISSIPPI  
+anagrams of MISSISSIPPI  
 
 not for anagrams of LYX  
 
