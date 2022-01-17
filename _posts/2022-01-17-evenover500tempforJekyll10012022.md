@@ -2,7 +2,7 @@
 layout: post
 topic: counting
 ---
-# welcome
+# comment for tex in Jekyll use $$  $$ for inline and display. Use blank line before and after for display. Do not use \\.Use blank line instead  
 Draw three boxes to represent an arbitrary three digit number, and then write in each box the number of digits that can be placed there\\
 When there are restrictions, fill the restricted places first.
 
