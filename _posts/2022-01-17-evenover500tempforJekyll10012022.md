@@ -2,7 +2,7 @@
 layout: post
 topic: counting
 ---
-# comment for tex in Jekyll use $$  $$ for inline and display. Use blank line before and after for display. Do not use \\.Use blank line instead  
+# Comment for tex in Jekyll. Use double dollar for inline and display. Use blank line before and after for display. Do not use double blackslash. Use blank line instead  
 Draw three boxes to represent an arbitrary three digit number, and then write in each box the number of digits that can be placed there\\
 When there are restrictions, fill the restricted places first.
 
@@ -33,7 +33,6 @@ $$
 
 By The Multiplication Principle, the number of ways of doing step1 and step 2 and step 3 is $$\binom{3}{1} \times \binom{3}{1} \times \binom{2}{1}$$. The number of three digit numbers is 3.3.2 =18.
 
-
 Now draw two boxes to represent an arbitrary two digit number and then write in each box the number of digits that can be placed there.
 Again fill the restricted places first.
 
@@ -49,7 +48,6 @@ $$
 
 By The Multiplication Principle, the number of ways of doing step1 and step 2 is $$\binom{4}{1} \times \binom{2}{1}$$. There are 4.2=8 two digit numbers.
 
-
 Next draw one box to represent an arbitrary one digit number, and then write in that box the number of digits that can be placed there.
 As this is a restricted place, it can only be filled in 2 ways.
 
@@ -64,7 +62,6 @@ $$
 $$
 
 As this is a restricted place, it can only be filled in $$ \binom{2}{1} $$ or 2 ways.
-
 
 By The Addition Principle, the number of even numbers less than 500 is
 
