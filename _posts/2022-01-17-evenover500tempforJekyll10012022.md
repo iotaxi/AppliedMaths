@@ -49,7 +49,6 @@ $$
 By The Multiplication Principle, the number of ways of doing step1 and step 2 is $$\binom{4}{1} \times \binom{2}{1}$$. There are 4.2=8 two digit numbers.
 
 Next draw one box to represent an arbitrary one digit number, and then write in that box the number of digits that can be placed there.
-As this is a restricted place, it can only be filled in 2 ways.
 
 $$
 \begin{array}{|c|}
