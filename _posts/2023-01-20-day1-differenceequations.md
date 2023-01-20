@@ -21,7 +21,4 @@ $$P_{n}=1.052^{n}P_{0}-(1.052)(3000)(\frac{1(1-1.052^{n-1})}{1-1.052})$$
 $$P_{n}=1.052^{n}P_{0}+(60692.308)(1-1.052^{n-1})$$
 $$P_{n}=(1.052^{n})(150000)-(1.052)(3000)(\frac{1(1-1.052^{n-1})}{1-1.052}$$
 $$P_{n}=(1.052^{n})(150000)+(60692.308)(1-1.052^{n-1})$$
-
-After Day 4, our take away message is:  
-<span style="color:blue">$${n \choose k}={n \choose n-k}$$</span>  
-<span style="color:blue">$${n \choose k}={n-1 \choose k}+{n-1 \choose k-1}$$</span>  
+ 
