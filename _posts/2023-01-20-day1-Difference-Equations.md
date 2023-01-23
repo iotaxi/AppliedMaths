@@ -8,7 +8,7 @@ Day 1
 Difference Equations// 
 $${P_{n+1}}=1.052 {P_n}-3000\$$is a difference equation $$where\:𝑛\geq0,\:𝑛∈\mathbb{Z\:}and\:𝑃_{0}=150,000.$$//
 
-(i) Solve this difference equation to find an expression for \({P_{n}}\) in terms of \(𝑛\).
+(i) Solve this difference equation to find an expression for $${P_{n}} in terms of \(𝑛$$.
 
 In this difference equation, reference is made to one previous term, so ITERATION should work.
 
