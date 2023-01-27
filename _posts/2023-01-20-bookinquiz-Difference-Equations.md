@@ -3,8 +3,8 @@ layout: post
 topic: counting
 
 ---
-Day 1
-
+Modified on 27012023
+lcam ol sp 2022 q3a  
 Difference Equations  
 $${P_{n+1}}=1.052 {P_n}-3000$$  
 is a difference equation  
@@ -13,6 +13,7 @@ $$where\:𝑛\geq0,\:𝑛∈\mathbb{Z\:}and\:𝑃_{0}=150,000.$$
 In this difference equation, reference is made to one previous term, so ITERATION should work.
 Write down the first term, then the second term and so on to see a pattern.
 Simplify as you go. Write each term as a function of $$\:𝑃_{0}.$$ Do not evaluate numbers such as $$4^2$$.  
+
 SOLUTION  
 $$P_{1}=1.052P_{0}-3000$$
 $$P_{2}=1.052\,P_{1}-3000=1.052(1.052P_{0}-3000)=1.052^{2}P_{0}-1.052(3000)$$
