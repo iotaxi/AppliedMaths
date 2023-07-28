@@ -5,7 +5,7 @@ topic: counting
 
 How To Count
 Is cron working?
-Day 
+ file search paths in maxima\\
 24072023 \\
 [Maxima-discuss] more about file search paths,24072023 \\
 (%i1) file_search_maxima;\\

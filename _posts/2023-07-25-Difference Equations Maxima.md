@@ -5,7 +5,7 @@ topic: counting
 
 How To Count
 Is cron working?
-Day 
+ Difference Equations Maxima<br>
 Modified on 31012022<br>
 Dowling Ch. 17, First Order Difference Equations <br>
 Dowling Ch. 18B, Second Order Difference Equations <br>
