@@ -4,6 +4,7 @@ topic: counting
 ---
 
 How To Count
+<a href="https://maxima.common-lisp.dev/" target="_blank">Maxima Documentation</a>
 Is cron working?
 Day 
 Modified on 31012022
