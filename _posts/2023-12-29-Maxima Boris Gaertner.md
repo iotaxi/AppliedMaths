@@ -7,11 +7,11 @@ How To Count
 Is cron working?
 Day 
 Modified on 31012022  
-Maxima Boris Gaertner updated 01012024
+Maxima Boris Gaertner updated 01012024  
 For "The Computer Algebra Program MAXIMA - a Tutorial", see  
 <a href="http://www.bildungsgueter.de/MaximaEN/Pages/TOC.htm" target="_blank">http://www.bildungsgueter.de/MaximaEN/Pages/TOC.htm</a>    
   
-
+Also see  
 <a href="http://www.bildungsgueter.de/MaximaEN/Contents.htm" target="_blank">http://www.bildungsgueter.de/MaximaEN/Contents.htm</a>  
 Newest additions made at Apr 12th, 2021  
 The Computer Algebra Program MAXIMA - a Tutorial from bildungsgueter.de  
