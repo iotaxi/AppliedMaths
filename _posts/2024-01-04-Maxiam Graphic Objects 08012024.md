@@ -2,8 +2,8 @@
 layout: post
 topic: counting
 ---
-53.2.4 Graphics objects  
-file:///C:/maxima-5.46.0/share/maxima/5.46.0/doc/html/maxima_singlepage.html#Functions-and-Variables-for-draw
+53.2.4 Graphics objects    
+<a href="file:///C:/maxima-5.46.0/share/maxima/5.46.0/doc/html/maxima_singlepage.html#Functions-and-Variables-for-draw" target="_blank">file:///C:/maxima-5.46.0/share/maxima/5.46.0/doc/html/maxima_singlepage.html#Functions-and-Variables-for-draw</a>     
 Graphic object: bars ([x1,h1,w1], [x2,h2,w2, ...])  
 Graphic object: cylindrical (radius, z, minz, maxz, azi, minazi, maxazi)  
 Graphic object: elevation_grid (mat,x0,y0,width,height)  
