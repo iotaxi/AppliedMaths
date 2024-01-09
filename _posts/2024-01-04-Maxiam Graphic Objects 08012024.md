@@ -4,7 +4,8 @@ topic: counting
 ---
 53.2.4 Graphics objects    
 <a href="https://maxima.sourceforge.io/docs/manual/maxima_singlepage.html#Graphics-objects" target="_blank">https://maxima.sourceforge.io/docs/manual/maxima_singlepage.html#Graphics-objects</a>     
-Graphic objects: bars  
+Graphic objects:  
+bars    
 cylindrical  
 elevation_grid  
 ellipse  
@@ -18,11 +19,11 @@ parametric
 parametric_surface  
 points  
 polar  
-polygon
+polygon  
 quadrilateral  
 rectangle  
 region  
-spherical
+spherical  
 triangle    
 tube    
 vector  
