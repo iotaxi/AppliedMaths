@@ -13,12 +13,12 @@ Maxima by Example:
 Ch.13: 2D Plots and Graphics using qdraw and wxqdraw   
 Edwin L. (Ted) Woollett  
 April 16, 2018    
-<a>https://home.csulb.edu/~woollett/mbe13qdraw.pdf</a>    
+<a href="https://home.csulb.edu/~woollett/mbe13qdraw.pdf" target="_blank">https://home.csulb.edu/~woollett/mbe13qdraw.pdf</a>  
 
 wxdraw2d_examples.wxmx  
-<a>https://home.csulb.edu/~woollett/wxdraw2d_examples.pdf</a>
+<a href="https://home.csulb.edu/~woollett/wxdraw2d_examples.pdf" target="_blank">https://home.csulb.edu/~woollett/wxdraw2d_examples.pdf</a>  
 
 Adventures with free Mathematical Software
 by
 Justin R. Smith  
-<a>http://www.five-dimensions.org/Textbooks/adventures.pdf</a> 
+<a href="http://www.five-dimensions.org/Textbooks/adventures.pdf" target="_blank">http://www.five-dimensions.org/Textbooks/adventures.pdf</a>  
