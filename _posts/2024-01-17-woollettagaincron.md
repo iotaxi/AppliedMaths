@@ -18,3 +18,6 @@ Modified on 31012022
 
 <a href="http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm" target="_blank">http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm</a>  
 
+ <a href="https://saylordotorg.github.io/text_introductory-statistics/index.html" target="_blank">https://saylordotorg.github.io/text_introductory-statistics/index.html</a>   
+ 
+
