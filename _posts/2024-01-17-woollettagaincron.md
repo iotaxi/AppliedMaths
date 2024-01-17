@@ -14,7 +14,7 @@ Modified on 31012022
 
 <a href="https://www.statology.org/geometric-distribution-real-life-examples/" target="_blank">https://www.statology.org/geometric-distribution-real-life-examples/</a>  
 
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>  
+<a href="https://www.investopedia.com/math-and-statistics-4689831" target="_blank">https://www.investopedia.com/math-and-statistics-4689831</a>  
 
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>  
+<a href="http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm" target="_blank">http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm</a>  
 
