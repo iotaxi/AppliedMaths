@@ -22,5 +22,5 @@ Modified on 31012022
  
 <a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric-distribution/637542Visit Britannica with login</a>    
 
-//<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>    
+<!--a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a-->    
 
