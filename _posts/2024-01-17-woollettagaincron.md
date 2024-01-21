@@ -20,7 +20,7 @@ Modified on 31012022
 
  <a href="https://saylordotorg.github.io/text_introductory-statistics/index.html" target="_blank">https://saylordotorg.github.io/text_introductory-statistics/index.html</a>   
  
-<a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric-distribution/637542Visit Britannica with login</a>    
+<a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric-distribution info Encyclopedia Britannica <br/>Encyclopedia Britannica requires login <br/></a>      
 
 <!--a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a-->    
 
