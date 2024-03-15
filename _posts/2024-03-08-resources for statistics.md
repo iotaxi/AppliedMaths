@@ -2,12 +2,13 @@
 layout: post
 topic: counting
 ---
-<a href="https://www.amsi.org.au/ESA_Senior_Years/seniors_years.html" target="_blank">Australian Years 11 and 12 Curriculum</a>  
-<a href="https://www.statology.org/geometric-distribution-real-life-examples/" target="_blank">https://www.statology.org/geometric-distribution-real-life-examples/</a>  
+
+<a href="https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit" target="_blank">Introduction to Probability by Joe Blitzstein and Jessica Hwang</a>     
+<a href="https://home.csulb.edu/~woollett/stat.html" target="_blank">Statistics with Maxima Woollett</a>    
+<a href="https://www.amsi.org.au/ESA_Senior_Years/seniors_years.html" target="_blank">Australian Curriculum (AMSI, AMSI Schools,AMSI Calculate</a>    
+<a href="https://www.statology.org/tutorials/" target="_blank">Statistics on Statology</a>    
   
 
-<a href="https://projects.iq.harvard.edu/stat110/home" target="_blank">Statistics 110: Probability</a>   
-<a href="https://projects.iq.harvard.edu/stat110/home" target="_blank">Statistics 110: Probability</a>  
  
 
 
