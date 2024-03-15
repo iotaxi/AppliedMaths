@@ -11,8 +11,7 @@ Resources for Statistics 15032024
 <a href="http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm" target="_blank">Yale 1997-98 Statistical Topics</a>    
 <a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric distribution info Encyclopedia Britannica <br/>Encyclopedia Britannica requires login <br/></a>  
 Reagle & Salvatore [RS], Statistics and Econometrics, 2nd ed, Schaum's Outlines, McGraw Hill. See textbook.  
-Fred Senese [FS], Symbolic Mathematics for Chemists: A Guide for Chemists. See textbook.  
-  
+
   
  
 
