@@ -9,8 +9,8 @@ Resources for Statistics 15032024
 <a href="https://www.statology.org/tutorials/" target="_blank">Statistics on Statology</a>    
 <a href="https://www.investopedia.com/math-and-statistics-4689831" target="_blank">Investopedia Maths and Statistics</a>  
 <a href="http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm" target="_blank">Yale 1997-98 Statistical Topics</a>    
-<a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric distribution info Encyclopedia Britannica <br/>Encyclopedia Britannica requires login <br/></a>  
 <a href="https://saylordotorg.github.io/text_introductory-statistics/index.html" target="_blank">Introductory Statistics from saylor.org</a>      
+<a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric distribution info Encyclopedia Britannica <br/>Encyclopedia Britannica requires login <br/></a>  
 Reagle & Salvatore [RS], Statistics and Econometrics, 2nd ed, Schaum's Outlines, McGraw Hill. See textbook.  
 
   
