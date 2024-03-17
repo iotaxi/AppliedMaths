@@ -11,6 +11,11 @@ Resources for Statistics 15032024
 <a href="https://www.investopedia.com/math-and-statistics-4689831" target="_blank">Investopedia Maths and Statistics</a>  
 <a href="http://www.stat.yale.edu/Courses/1997-98/101/stat101.htm" target="_blank">Yale 1997-98 Statistical Topics</a>    
 <a href="https://library.eb.co.uk/levels/adult/article/geometric-distribution/637542" target="_blank">geometric distribution info Encyclopedia Britannica <br/>Encyclopedia Britannica requires login <br/></a>  
+Maxima statistics packages   
+<a href="https://maxima.sourceforge.io/docs/manual/maxima_211.html" target="_blank">Maxima manual Statistics 50 descriptive</a>        
+<a href="https://maxima.sourceforge.io/docs/manual/maxima_218.html" target="_blank">Maxima manual Statistics 52 distrib</a>      
+<a href="https://riotorto.users.sourceforge.net/Maxima/descriptive/index.html" target="_blank">'descriptive' and 'distrib' packages by Riotorto</a>      
+
 Reagle & Salvatore [RS], Statistics and Econometrics, 2nd ed, Schaum's Outlines, McGraw Hill. See textbook.  
 
   
